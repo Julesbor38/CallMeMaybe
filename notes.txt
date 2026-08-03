@@ -1,0 +1,5 @@
+✅ création du prompt
+✅ génération libre de la fonction
+✅ constrained decoding pour le JSON
+✅ écriture du fichier de sortie
+✅ gestion complète des erreurs
